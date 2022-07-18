@@ -434,7 +434,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     width: '90%',
     borderRadius: 10,
-    maxHeight: '80%',
+    maxHeight: '100%',
     backgroundColor: 'white',
   },
 
